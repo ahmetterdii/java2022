@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="YouTubeEgitim.CreditManager"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.CustomerManeger"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.Person"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.Company"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.ICreditManeger"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.Customer"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.CustomerManager"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.ICreditManager"/>
+    <fullyQualifiedTypeName name="YouTubeEgitim.BaseCreditManager"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="nLayeredApp.dataAccess.BaseDao"/>
+    <fullyQualifiedTypeName name="nLayeredApp.entities.Course"/>
+    <fullyQualifiedTypeName name="nLayeredApp.entities.Category"/>
+    <fullyQualifiedTypeName name="nLayeredApp.entities.Instructor"/>
+    <fullyQualifiedTypeName name="nLayeredApp.core.logging.Logger"/>
+    <fullyQualifiedTypeName name="nLayeredApp.core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="nLayeredApp.core.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="nLayeredApp.business.BaseManager"/>
+    <fullyQualifiedTypeName name="nLayeredApp.dataAccess.HibernateDao"/>
+    <fullyQualifiedTypeName name="nLayeredApp.dataAccess.JdbcDao"/>
+    <fullyQualifiedTypeName name="nLayeredApp.business.IsExist"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,13 @@
+package nLayeredApp.business;
+
+import nLayeredApp.dataAccess.BaseDao;
+
+public class BaseManager {
+	private BaseDao baseDao;
+
+	public BaseManager(BaseDao baseDao) {
+		this.baseDao = baseDao;
+	}
+	
+	
+}

@@ -1,0 +1,6 @@
+package YouTubeEgitim;
+
+public interface ICreditManeger {
+	void Calculate();
+	void Save();
+}

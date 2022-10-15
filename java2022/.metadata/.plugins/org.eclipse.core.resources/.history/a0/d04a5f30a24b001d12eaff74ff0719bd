@@ -1,0 +1,5 @@
+package nLayeredApp.core.logging;
+
+public class MailLogger {
+
+}

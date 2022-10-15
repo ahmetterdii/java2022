@@ -1,0 +1,28 @@
+package YouTubeEgitim;
+
+public class Main {
+
+	public static void main(String[] args) {
+		CreditManager creditManager = new CreditManager();
+		creditManager.Calculate();
+		creditManager.Save();
+		
+		Customer customer = new Customer();
+		customer.setId(1);
+		customer.setCity("Ankara");
+		
+		
+		
+		CustomerManager customerManeger = new CustomerManager(customer);
+		customerManeger.Save();
+		customerManeger.Delete();
+		
+		Company company = new Company();
+		company.setTaxNumber("222222");
+		
+		Person person = new Person();
+		person.setNationalIdentity("333333");
+		
+	}
+
+}

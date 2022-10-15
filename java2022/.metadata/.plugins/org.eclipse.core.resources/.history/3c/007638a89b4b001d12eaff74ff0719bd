@@ -1,0 +1,5 @@
+package nLayeredApp.dataAccess;
+
+public interface BaseDao {
+
+}

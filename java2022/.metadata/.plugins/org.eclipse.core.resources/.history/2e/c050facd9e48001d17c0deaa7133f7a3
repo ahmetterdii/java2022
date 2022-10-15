@@ -1,0 +1,17 @@
+package YouTubeEgitim;
+
+public class MilitaryCreditManager implements ICreditManager {
+
+	@Override
+	public void Calculate() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void Save() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

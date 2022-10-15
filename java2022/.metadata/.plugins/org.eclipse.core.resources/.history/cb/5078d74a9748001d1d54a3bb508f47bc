@@ -1,0 +1,16 @@
+package YouTubeEgitim;
+
+public class CustomerManager {
+	private Customer customer;
+	public CustomerManager(Customer customer) {
+		this.customer = customer;
+	}
+	
+	public void Save() {
+		System.out.println("Müþteri kaydedildi : " + customer.getFirstName());
+	}
+	
+	public void Delete() {
+		System.out.println("Müþteri silindi : " + customer.getFirstName());
+	}
+}

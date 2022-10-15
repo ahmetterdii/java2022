@@ -1,0 +1,11 @@
+package YouTubeEgitim;
+
+public abstract class BaseCreditManager implements ICreditManager {
+	public void Calculate() {
+		System.out.println("Öðretmen kredisi hesaplandý.");	
+	}
+
+	public void Save() {
+		System.out.println("Kaydedildi.");
+	}
+}

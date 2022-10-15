@@ -1,0 +1,17 @@
+package YouTubeEgitim;
+
+public class TeacherCredirManager implements ICreditManeger {
+
+	@Override
+	public void Calculate() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void Save() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

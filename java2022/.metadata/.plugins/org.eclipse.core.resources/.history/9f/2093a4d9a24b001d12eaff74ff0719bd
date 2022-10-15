@@ -1,0 +1,19 @@
+package nLayeredApp.business;
+
+import nLayeredApp.core.logging.Logger;
+import nLayeredApp.dataAccess.BaseDao;
+import nLayeredApp.entities.Instructor;
+
+public class BaseManager {
+	private BaseDao baseDao;
+	private Logger[] loggers;
+	
+	public BaseManager(BaseDao baseDao, Logger[] loggers) {
+		this.baseDao = baseDao;
+		this.loggers = loggers;
+	}
+	
+	public void add(Course course, Category category, Instructor instructor) throws Exception {
+		
+	}
+}

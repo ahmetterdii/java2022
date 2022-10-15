@@ -1,0 +1,5 @@
+package YouTubeEgitim;
+
+public class TeacherCredirManager implements ICreditManeger {
+	
+}

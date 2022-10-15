@@ -1,0 +1,14 @@
+package YouTubeEgitim;
+
+public class Person extends Customer {
+	private String firstName;
+	private String lastName;
+	private String nationalIdentity;
+	
+	public String getNationalIdentity() {
+		return nationalIdentity;
+	}
+	public void setNationalIdentity(String nationalIdentity) {
+		this.nationalIdentity = nationalIdentity;
+	}
+}
